@@ -20,7 +20,7 @@ I'm currently studying for BSc in Computer Science Engineering at American Inter
 
 ##### Connect with me at:
 
-<a align="left" href="https://www.facebook.com/Naimtorian"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-naimtorian-blue?style=flat&logo=facebook"></a>
-<a align="left" href="https://www.linkedin.com/in/mostaque-naim-b114571b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mostaque-naim-b114571b1-blue?style=flat&logo=linkedin"></a>
+<a align="left" href="https://www.facebook.com/Naimtorian"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-mostaquenaim-blue?style=flat&logo=facebook"></a>
+<a align="left" href="https://www.linkedin.com/in/mostaque-naim-b114571b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mostaquenaim-blue?style=flat&logo=linkedin"></a>
 
 
