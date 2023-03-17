@@ -6,7 +6,7 @@ So, this my official GitHub profile. I upload my projects, done in different lan
 
 Skills: C, C++, C#, Php, HTML, CSS,  Python, Java, Typescript, nestJs, .Net, nodeJs, Javascipt
 
-- 🔭 I’m currently a student (last year)
+- 🔭 I’m currently working on Typescript (nodeJs)
 
 
 
