@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi,+there+👋+,+I'm+Naim!+😀)](https://git.io/typing-svg)
-#### Software Developer
+#### A passionate backend developer
 I'm currently studying for BSc in Computer Science Engineering at American International University-Bangladesh (AIUB).
 
 ##### Stats:
