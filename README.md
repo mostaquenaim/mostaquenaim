@@ -7,7 +7,7 @@ I'm currently studying for BSc in Computer Science Engineering at American Inter
 
 ##### Stats:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mostaquenaim&theme=radical&show_icons=true" />
-<br> 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostaquenaim&theme=radical&layout=compact" /><br> 
 
 ![Profile views](https://gpvc.arturio.dev/mostaquenaim)
 
