@@ -5,9 +5,14 @@
 
 I'm currently studying for BSc in Computer Science Engineering at American International University-Bangladesh (AIUB).
 
-
+<!--
 ##### Stats:
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostaquenaim&theme=radical&layout=compact" /><br> 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostaquenaim&theme=radical&layout=compact" /><br>
+-->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostaquenaim&langs_count=7)](https://github.com/mostaquenaim/github-readme-stats)
+<br>
 
 ##### Skills:
 <img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -26,7 +31,6 @@ I'm currently studying for BSc in Computer Science Engineering at American Inter
 <img align="left" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <br><br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostaquenaim&langs_count=7)](https://github.com/mostaquenaim/github-readme-stats)
 
 ##### Connect with me at:
 
