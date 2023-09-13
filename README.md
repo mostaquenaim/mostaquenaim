@@ -6,7 +6,8 @@
 I'm currently studying for BSc in Computer Science Engineering at American International University-Bangladesh (AIUB).
 
 
-
+##### Stats:
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostaquenaim&theme=radical&layout=compact" /><br> 
 
 ##### Skills:
 <img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
