@@ -26,7 +26,7 @@ I'm currently studying for BSc in Computer Science Engineering at American Inter
 <img align="left" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <br><br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostaquenaim)](https://github.com/mostaquenaim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostaquenaim&langs_count=7)](https://github.com/mostaquenaim/github-readme-stats)
 
 ##### Connect with me at:
 
