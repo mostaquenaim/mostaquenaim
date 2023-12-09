@@ -17,12 +17,9 @@ In my work, I leverage a range of technologies and languages to bring ideas to l
 
 - **Additional Skills:** ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white), ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-Feel free to explore my GitHub repositories to see the projects I've been working on. I'm passionate about continuous learning and collaboration, so if you have any exciting projects or ideas, let's connect!
-
-##### Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mostaquenaim&card_width=900)](https://git.io/streak-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,react,nodejs,express,postgresql,mongodb,mongoose)](https://skillicons.dev)
 
 ##### Connect with me at:
 
