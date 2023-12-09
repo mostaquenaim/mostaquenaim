@@ -5,15 +5,17 @@ I'm currently pursuing a BSc in Computer Science Engineering at American Interna
 
 ![Banner](images/banner.png)
 
-In my work, I leverage a range of technologies and languages to bring ideas to life. From front-end development using HTML, CSS, and JavaScript to back-end work with languages like C#, Python, and PHP, I enjoy the process of building robust and dynamic web applications. My proficiency extends to frameworks such as React for creating interactive user interfaces and Node.js for scalable server-side applications.
+In my work, I leverage a range of technologies and languages to bring ideas to life:
 
-Here are some of the key technologies I work with:
+- **Front-end:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB), ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-- **Front-end:** HTML, CSS, JavaScript, React
-- **Back-end:** C#, Python, Node.js, PHP
-- **Database:** PostgreSQL, MongoDB (Mongoose)
-- **Other Languages:** C, C++, Java
-- **Additional Skills:** .NET, TypeScript
+- **Back-end:** ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white), ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+- **Database:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white), ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white), ![Mongoose](https://img.shields.io/badge/Mongoose-47A248?style=for-the-badge&logo=mongoose&logoColor=white)
+
+- **Other Languages:** ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white), ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white), ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+- **Additional Skills:** ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white), ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 Feel free to explore my GitHub repositories to see the projects I've been working on. I'm passionate about continuous learning and collaboration, so if you have any exciting projects or ideas, let's connect!
 
