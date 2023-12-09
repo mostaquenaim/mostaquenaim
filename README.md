@@ -19,7 +19,7 @@ In my work, I leverage a range of technologies and languages to bring ideas to l
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mostaquenaim&card_width=900)](https://git.io/streak-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,react,nodejs,express,postgresql,mongodb,mongoose)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,postgresql,mongodb,mongoose)](https://skillicons.dev)
 
 ##### Connect with me at:
 
