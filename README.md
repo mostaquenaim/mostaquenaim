@@ -5,6 +5,8 @@
 
 I'm currently studying for BSc in Computer Science Engineering at American International University-Bangladesh (AIUB).
 
+![Banner](images/banner.png)
+
 <!--
 ##### Stats:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostaquenaim&theme=radical&layout=compact" /><br>
