@@ -11,7 +11,7 @@ I'm currently studying for BSc in Computer Science Engineering at American Inter
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostaquenaim&langs_count=7)](https://github.com/mostaquenaim/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mostaquenaim&card_width=900)](https://git.io/streak-stats)
 
 ##### Skills:
 <img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
