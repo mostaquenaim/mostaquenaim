@@ -20,6 +20,8 @@ Feel free to explore my GitHub repositories to see the projects I've been workin
 ##### Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mostaquenaim&card_width=900)](https://git.io/streak-stats)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ##### Connect with me at:
 
 <a align="left" href="https://www.facebook.com/Naimtorian"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-mostaquenaim-blue?style=flat&logo=facebook"></a>
