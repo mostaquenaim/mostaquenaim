@@ -1,6 +1,7 @@
-# Hi there! 👋 I'm Naim, a passionate full-stack developer.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi,+there+👋+,+I'm+Naim!+😀)](https://git.io/typing-svg)
+#### A software engieering enthusiast
 
-I'm currently pursuing a BSc in Computer Science Engineering at AIUB. My diverse skill set makes me versatile in creating solutions.
+I'm currently pursuing a BSc in Computer Science Engineering at AIUB and in the last semester.
 
 ![Banner](images/banner.png)
 
@@ -10,9 +11,9 @@ I'm currently pursuing a BSc in Computer Science Engineering at AIUB. My diverse
 
 **Back-end:** Node.js, Express.js, ASP.NET
 
-**Database:** PostgreSQL, MongoDB, Mongoose
+**Database:** PostgreSQL, MongoDB, Mongoose, MySQL
 
-**Languages:** C, C++, Java, TypeScript
+**Languages:** C, C++, TypeScript, Python
 
 **Skills:** Problem Solving on CodeForces
 
