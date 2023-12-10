@@ -19,7 +19,7 @@ I'm currently pursuing a BSc in Computer Science Engineering at AIUB and in the 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mostaquenaim&card_width=900)](https://git.io/streak-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,postgresql,mongodb,mongoose,dot-net,codeforces)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,express,react,nextjs,nestjs,dot-net,python,postgresql,mysql,codeforces)](https://skillicons.dev)
 
 ## Connect with me at:
 
